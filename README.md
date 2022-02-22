@@ -1,3 +1,5 @@
+**The following is the README provided by the forked repo, not by me**
+
 # Component Library Workshop
 
 In this workshop, we'll build 3 components from scratch:
